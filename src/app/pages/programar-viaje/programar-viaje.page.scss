@@ -1,0 +1,31 @@
+.content-body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.title {
+    margin-top: 2.5vh;
+    font-weight: 600;
+    font-size: 3.5vh;
+    max-width: 80%;
+    word-break: break-word;
+    white-space: pre-line;
+    text-align: center;
+}
+
+.subtitle {
+    margin-top: 2vh;
+    word-break: break-word;
+    max-width: 32vh;
+    text-align: center;
+}
+
+[ng-reflect-disabled=true] {
+    color: red;
+}
+
+[ng-reflect-disabled=false] {
+    color: lime;
+}

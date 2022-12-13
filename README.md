@@ -1,5 +1,5 @@
 # TeLlevoApp
-TeLlevoApp, Proyecto Semestral.
+TeLlevoApp, Examen Transversal.
 
 <h2>Figma con Diseño</h2>
 https://www.figma.com/file/0DdWiSpN4gnymPt8L3Z7zU/TeLlevoApp?node-id=36%3A3
